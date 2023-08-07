@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan registrasi tanpa menginput Konfirmasi Kata Sandi</description>
+   <name>TS_REG_010_Registrasi tanpa input Konfirmasi Kata Sandi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>631b4f5c-15e5-4386-b6d5-c68a735fa8ee</testCaseGuid>
+</TestCaseEntity>

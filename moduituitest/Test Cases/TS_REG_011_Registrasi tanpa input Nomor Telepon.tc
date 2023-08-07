@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan registrasi tanpa menginput Nomor telepon</description>
+   <name>TS_REG_011_Registrasi tanpa input Nomor Telepon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d896b674-b48c-49e0-a082-901bf2534e11</testCaseGuid>
+</TestCaseEntity>

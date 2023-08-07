@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan registrasi dengan melakukan input email Tanpa 1 Angka</description>
+   <name>TS_REG_020_Registrasi dengan inputan email Tanpa 1 Angka</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd8780be-78c4-446c-a3a7-077c3dc3d624</testCaseGuid>
+</TestCaseEntity>

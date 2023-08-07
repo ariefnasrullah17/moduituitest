@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan registrasi dengan hanya menginputkan Nomor Telepon</description>
+   <name>TS_REG_016_Registrasi hanya input Nomor telepon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acd1a2eb-ed00-4f3a-a962-a05fc41c6082</testCaseGuid>
+</TestCaseEntity>

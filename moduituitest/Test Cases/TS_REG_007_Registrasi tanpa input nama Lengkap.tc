@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan registrasi tanpa menginput nama lengkap</description>
+   <name>TS_REG_007_Registrasi tanpa input nama Lengkap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adccacec-5c0d-474a-96bb-dcafc6e7e22d</testCaseGuid>
+</TestCaseEntity>

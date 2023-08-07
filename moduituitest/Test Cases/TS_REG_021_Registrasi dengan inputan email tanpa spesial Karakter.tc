@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS_REG_021_Registrasi dengan inputan email tanpa spesial Karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f04f4b73-7734-4967-8ea7-2056af6255af</testCaseGuid>
+</TestCaseEntity>

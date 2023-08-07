@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS_REG_003_Resgistrasi dengan data valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d85113d2-bef5-46bb-99d1-73552a6ac22e</testCaseGuid>
+</TestCaseEntity>

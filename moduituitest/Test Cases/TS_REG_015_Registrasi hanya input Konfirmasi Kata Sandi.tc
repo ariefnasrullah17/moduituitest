@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan registrasi dengan hanya menginputkan Konfirmasi Kata Sandi</description>
+   <name>TS_REG_015_Registrasi hanya input Konfirmasi Kata Sandi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8579cf4-6e4d-43e0-9a60-2a8fbe45e755</testCaseGuid>
+</TestCaseEntity>

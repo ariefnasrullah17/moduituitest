@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan registrasi dengan hanya menginputkan Email</description>
+   <name>TS_REG_013_Registrasi hanya input Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f24d9802-8819-4195-aa9e-07591e8ef476</testCaseGuid>
+</TestCaseEntity>

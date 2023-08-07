@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan registrasi dengan melakukan input email Tanpa Huruf Besar</description>
+   <name>TS_REG_019_Registrasi dengan inputan email Tanpa huruf Besar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c88a889a-cfea-4752-81e0-d37451d1d318</testCaseGuid>
+</TestCaseEntity>
